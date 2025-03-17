@@ -31,11 +31,5 @@ onMounted(() => {
 </script>
 
 <template>
-    <!-- <NuxtLoadingIndicator /> -->
-    <NuxtLayout>
-        <div class="p-2 select-none">
-            <!-- <Toast/> -->
-            <NuxtPage />
-        </div>
-    </NuxtLayout>
+    <div>APP</div>
 </template>
