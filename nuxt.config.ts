@@ -46,7 +46,7 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     "@nuxt/eslint",
     // "@nuxtjs/dotenv",
-    "@nuxtjs/supabase",
+    // "@nuxtjs/supabase",
     [
       "@pinia/nuxt",
       {
