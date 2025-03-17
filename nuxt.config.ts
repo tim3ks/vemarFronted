@@ -59,7 +59,7 @@ export default defineNuxtConfig({
 
   // ssr: false,
   plugins: [
-    '~/plugins/vue-konva.js'
+    // '~/plugins/vue-konva.js'
   ],
 
 
