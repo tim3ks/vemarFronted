@@ -1,0 +1,24 @@
+@import 'primeicons/primeicons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+	.navStyle {
+		@apply items-center justify-between w-full p-4 border-b bg-slate-100;
+	}
+
+	.cardStyle {
+		@apply flex-wrap gap-2 p-3 pb-5 bg-white drop-shadow-md ring-1 ring-slate-300
+	}
+
+	.cardStyleTitle {
+		@apply gap-1 absolute top-[-14px] text-slate-600 bg-white flex font-semibold
+	}
+
+	.addProdukt {
+		@apply p-1 flex rounded text-sm text-white cursor-pointer hover:opacity-80
+	}
+}

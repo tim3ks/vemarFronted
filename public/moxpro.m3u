@@ -1,0 +1,593 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL - TVP 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvp1hd.png" group-title="|PL| POLAND FHD",PL - TVP 1 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814363
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL - TVP 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvp2hd.png" group-title="|PL| POLAND FHD",PL - TVP 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814362
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="PL - TVP INFO FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvpinfo.png" group-title="|PL| POLAND FHD",PL - TVP INFO FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814361
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL - TVP FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvphd.png" group-title="|PL| POLAND FHD",PL - TVP FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814360
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP KULTURA FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvpkultura.png" group-title="|PL| POLAND FHD",PL - TVP KULTURA FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814359
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - POLSAT SERIALE FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatseriale.png" group-title="|PL| POLAND FHD",PL - POLSAT SERIALE FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814358
+#EXTINF:-1 tvg-id="" tvg-name="PL - TVP DOKUMENT FHD" tvg-logo="http://logo.protv.cc/picons/logos/TVP-DOKUMENT.jpeg" group-title="|PL| POLAND FHD",PL - TVP DOKUMENT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814357
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL - TVN FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvn.png" group-title="|PL| POLAND FHD",PL - TVN FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814356
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL - TVN 7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvn7hd.png" group-title="|PL| POLAND FHD",PL - TVN 7 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814355
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="PL - TVN24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvn24hd.png" group-title="|PL| POLAND FHD",PL - TVN24 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814354
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="PL - TVN24 BIS FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvn24bis.png" group-title="|PL| POLAND FHD",PL - TVN24 BIS FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814353
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - POLSAT FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsathd.png" group-title="|PL| POLAND FHD",PL - POLSAT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814352
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="PL - POLSAT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsat2hd.png" group-title="|PL| POLAND FHD",PL - POLSAT 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814351
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN FABULA FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvnfabula.png" group-title="|PL| POLAND FHD",PL - TVN FABULA FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814350
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tv4.png" group-title="|PL| POLAND FHD",PL - TV4 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814349
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/tv6_HD.png" group-title="|PL| POLAND FHD",PL - TV6 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814348
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL - TTV FHD" tvg-logo="http://logo.protv.cc/picons/logos/ttv.png" group-title="|PL| POLAND FHD",PL - TTV FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814347
+#EXTINF:-1 tvg-id="" tvg-name="PL - DTX FHD" tvg-logo="http://logo.protv.cc/picons/logos/dtxhd.png" group-title="|PL| POLAND FHD",PL - DTX FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814346
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL - MOTOWIZJA FHD" tvg-logo="http://logo.protv.cc/picons/logos/motowizjatv.png" group-title="|PL| POLAND FHD",PL - MOTOWIZJA FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814345
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="PL - FIGHTBOX FHD" tvg-logo="http://logo.protv.cc/picons/logos/fightboxhd.png" group-title="|PL| POLAND FHD",PL - FIGHTBOX FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814344
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="PL - FIGHTKLUB FHD" tvg-logo="http://logo.protv.cc/picons/logos/fightklub.png" group-title="|PL| POLAND FHD",PL - FIGHTKLUB FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814343
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL - TVP SPORT FHD" tvg-logo="http://logo.protv.cc/picons/logos/tvpsporthd.png" group-title="|PL| POLAND FHD",PL - TVP SPORT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814342
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="PL - EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="|PL| POLAND FHD",PL - EUROSPORT 1 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814341
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="PL - EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport2pl.png" group-title="|PL| POLAND FHD",PL - EUROSPORT 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814340
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="PL - SPORTKLUB FHD" tvg-logo="http://logo.protv.cc/picons/logos/sportklub.png" group-title="|PL| POLAND FHD",PL - SPORTKLUB FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814339
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL - POLSAT SPORT FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsporthd.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814338
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL - POLSAT SPORT FIGHT FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportfighthd.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT FIGHT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814337
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL - POLSAT SPORT NEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportnews.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT NEWS FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814336
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="PL - POLSAT SPORT EXTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportextrahd.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT EXTRA FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814335
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL - CANAL+ SPORT FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="|PL| POLAND FHD",PL - CANAL+ SPORT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814334
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="PL - CANAL+ SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="|PL| POLAND FHD",PL - CANAL+ SPORT 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814333
+#EXTINF:-1 tvg-id="CanalPlusSport3.ke" tvg-name="PL - CANAL+ SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="|PL| POLAND FHD",PL - CANAL+ SPORT 3 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814332
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL - CANAL+ SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="|PL| POLAND FHD",PL - CANAL+ SPORT 4 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814331
+#EXTINF:-1 tvg-id="" tvg-name="PL - CANAL+ SPORT 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="|PL| POLAND FHD",PL - CANAL+ SPORT 5 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814330
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="PL - EXTREME SPORTS FHD" tvg-logo="http://logo.protv.cc/picons/logos/extremesportshd.png" group-title="|PL| POLAND FHD",PL - EXTREME SPORTS FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814329
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="PL - ELEVEN SPORTS 1 4K" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/130.jpg" group-title="|PL| POLAND FHD",PL - ELEVEN SPORTS 1 4K
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814328
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="PL - ELEVEN SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/130.jpg" group-title="|PL| POLAND FHD",PL - ELEVEN SPORTS 1 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814327
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="PL - ELEVEN SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports2hd.png" group-title="|PL| POLAND FHD",PL - ELEVEN SPORTS 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814326
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="PL - ELEVEN SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports3hd.png" group-title="|PL| POLAND FHD",PL - ELEVEN SPORTS 3 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814325
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="PL - ELEVEN SPORTS 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports4hd.png" group-title="|PL| POLAND FHD",PL - ELEVEN SPORTS 4 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814324
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL - POLSAT SPORT PREMIUM 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium1.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 1 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814323
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL - POLSAT SPORT PREMIUM 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium2.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 2 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814322
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="PL - POLSAT SPORT PREMIUM 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv3.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 3 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814321
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="PL - POLSAT SPORT PREMIUM 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv4.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 4 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814320
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="PL - POLSAT SPORT PREMIUM 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv5.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 5 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814319
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL - POLSAT SPORT PREMIUM 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv6.png" group-title="|PL| POLAND FHD",PL - POLSAT SPORT PREMIUM 6 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/814318
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="PL - TVN24 BIS HD" tvg-logo="http://logo.protv.cc/picons/logos/tvn24bis.png" group-title="|PL| INFORMACJE",PL - TVN24 BIS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689639
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="PL - TVN24 HD" tvg-logo="http://logo.protv.cc/picons/logos/tvn24hd.png" group-title="|PL| INFORMACJE",PL - TVN24 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689640
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="PL - TVP INFO HD" tvg-logo="http://logo.protv.cc/picons/logos/tvpinfo.png" group-title="|PL| INFORMACJE",PL - TVP INFO HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689649
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="PL - POLSAT NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatnewshd.png" group-title="|PL| INFORMACJE",PL - POLSAT NEWS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689711
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL - POLSAT NEWS 2" tvg-logo="http://logo.protv.cc/picons/logos/polsatnews2.png" group-title="|PL| INFORMACJE",PL - POLSAT NEWS 2
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689785
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL - TV REPUBLIKA" tvg-logo="http://logo.protv.cc/picons/logos/tvrepublika.png" group-title="|PL| INFORMACJE",PL - TV REPUBLIKA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689809
+#EXTINF:-1 tvg-id="" tvg-name="PL - CNNI HD" tvg-logo="http://logo.protv.cc/picons/logos/cnnihd.png" group-title="|PL| INFORMACJE",PL - CNNI HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/690390
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL - WPOLSCE" tvg-logo="http://logo.protv.cc/picons/logos/wpolscepl.png" group-title="|PL| INFORMACJE",PL - WPOLSCE
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689821
+#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="PL - WYDARZENIA 24" tvg-logo="http://logo.protv.cc/picons/logos/WYDARZENIA-24.png" group-title="|PL| INFORMACJE",PL - WYDARZENIA 24
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/986068
+#EXTINF:-1 tvg-id="" tvg-name="PL - CANAL+ 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+4k-POLAND.png" group-title="|PL| FILMOWE",PL - CANAL+ 4K
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689803
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN FABULA HD" tvg-logo="http://logo.protv.cc/picons/logos/tvnfabula.png" group-title="|PL| FILMOWE",PL - TVN FABULA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689636
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - POLSAT SERIALE HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatseriale.png" group-title="|PL| FILMOWE",PL - POLSAT SERIALE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689645
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL - POLSAT RODZINA HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatrodzina.png" group-title="|PL| FILMOWE",PL - POLSAT RODZINA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689646
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL - POLSAT FILM HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatfilmhd.png" group-title="|PL| FILMOWE",PL - POLSAT FILM HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689647
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="PL - CANAL+ 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplus1hd.png" group-title="|PL| FILMOWE",PL - CANAL+ 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689651
+#EXTINF:-1 tvg-id="" tvg-name="PL - CANAL+ NOW HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplusnowhd.png" group-title="|PL| FILMOWE",PL - CANAL+ NOW HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689653
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="PL - CANAL+ PREMIUM HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="|PL| FILMOWE",PL - CANAL+ PREMIUM HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689654
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="PL - CANAL+ FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamilyhd.png" group-title="|PL| FILMOWE",PL - CANAL+ FAMILY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689652
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="PL - CANAL+ SERIALE HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplusserialehd.png" group-title="|PL| FILMOWE",PL - CANAL+ SERIALE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689655
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="PL - HBO 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-2-HD.jpg" group-title="|PL| FILMOWE",PL - HBO 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689656
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="PL - HBO 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/hbo3hd.png" group-title="|PL| FILMOWE",PL - HBO 3 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689657
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="PL - HBO HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-HD.png" group-title="|PL| FILMOWE",PL - HBO HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689658
+#EXTINF:-1 tvg-id="" tvg-name="PL - ALE KINO+ HD" tvg-logo="http://logo.protv.cc/picons/logos/alekinoplushd.png" group-title="|PL| FILMOWE",PL - ALE KINO+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689659
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="PL - CANAL+ FILM HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfilmhd.png" group-title="|PL| FILMOWE",PL - CANAL+ FILM HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689661
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="PL - AXN HD" tvg-logo="http://logo.protv.cc/picons/logos/axnhd.png" group-title="|PL| FILMOWE",PL - AXN HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689662
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="PL - AXN SPIN HD" tvg-logo="http://logo.protv.cc/picons/logos/axnspinhd.png" group-title="|PL| FILMOWE",PL - AXN SPIN HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689663
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="PL - CINEMAX 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/cinemax2hd.png" group-title="|PL| FILMOWE",PL - CINEMAX 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689664
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL - COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralpolandhd.png" group-title="|PL| FILMOWE",PL - COMEDY CENTRAL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689665
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL - COMEDY CENTRAL POLAND HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralpolandhd.png" group-title="|PL| FILMOWE",PL - COMEDY CENTRAL POLAND HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689666
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="PL - CINEMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/cinemaxhd.png" group-title="|PL| FILMOWE",PL - CINEMAX HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689667
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="PL - FILMBOX EXTRA HD" tvg-logo="http://logo.protv.cc/picons/logos/filmboxextrahd.png" group-title="|PL| FILMOWE",PL - FILMBOX EXTRA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689668
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="PL - FILMBOX PREMIUM HD" tvg-logo="http://logo.protv.cc/picons/logos/filmboxpremium.png" group-title="|PL| FILMOWE",PL - FILMBOX PREMIUM HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689669
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="PL - FOX COMEDY HD" tvg-logo="http://logo.protv.cc/picons/logos/foxcomedyhd.png" group-title="|PL| FILMOWE",PL - FOX COMEDY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689672
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="PL - KINO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/kinotv.png" group-title="|PL| FILMOWE",PL - KINO TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689674
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="PL - KINO POLSKA HD" tvg-logo="http://logo.protv.cc/picons/logos/kinopolska.png" group-title="|PL| FILMOWE",PL - KINO POLSKA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689676
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL - FOX HD" tvg-logo="http://logo.protv.cc/picons/logos/foxhd.png" group-title="|PL| FILMOWE",PL - FOX HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689675
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL - TLC HD" tvg-logo="http://logo.protv.cc/picons/logos/TLC-HD.png" group-title="|PL| FILMOWE",PL - TLC HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689678
+#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="PL - PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/paramountchannelhd.png" group-title="|PL| FILMOWE",PL - PARAMOUNT CHANNEL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689680
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="PL - SCIFI UNIVERSAL HD" tvg-logo="http://logo.protv.cc/picons/logos/scifiuniversal.png" group-title="|PL| FILMOWE",PL - SCIFI UNIVERSAL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689701
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL - AMC HD" tvg-logo="http://logo.protv.cc/picons/logos/amchd.png" group-title="|PL| FILMOWE",PL - AMC HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689719
+#EXTINF:-1 tvg-id="" tvg-name="PL - NOVELAS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/NOVELAS+.png" group-title="|PL| FILMOWE",PL - NOVELAS+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689742
+#EXTINF:-1 tvg-id="RedCarpet.pl" tvg-name="PL - RED CARPET TV HD" tvg-logo="http://logo.protv.cc/picons/logos/redcarpettv.png" group-title="|PL| FILMOWE",PL - RED CARPET TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689757
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="PL - AXN BLACK" tvg-logo="http://logo.protv.cc/picons/logos/axnblackhd.png" group-title="|PL| FILMOWE",PL - AXN BLACK
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689776
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="PL - AXN WHITE" tvg-logo="http://logo.protv.cc/picons/logos/axnwhitehd.png" group-title="|PL| FILMOWE",PL - AXN WHITE
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689777
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="PL - BBC FIRST HD" tvg-logo="http://logo.protv.cc/picons/logos/bbcfirst.png" group-title="|PL| FILMOWE",PL - BBC FIRST HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689703
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="PL - CBS EUROPA HD" tvg-logo="http://logo.protv.cc/picons/logos/cbseuropa.png" group-title="|PL| FILMOWE",PL - CBS EUROPA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689721
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL - ROMANCE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/romancetvhd.png" group-title="|PL| FILMOWE",PL - ROMANCE TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689758
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="PL - FILMBOX ACTION" tvg-logo="http://logo.protv.cc/picons/logos/filmboxaction.png" group-title="|PL| FILMOWE",PL - FILMBOX ACTION
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689779
+#EXTINF:-1 tvg-id="FilmBoxArtHouse.pl" tvg-name="PL - FILMBOX ARTHOUSE" tvg-logo="http://logo.protv.cc/picons/logos/filmboxarthouse.png" group-title="|PL| FILMOWE",PL - FILMBOX ARTHOUSE
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689780
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="PL - FILMBOX FAMILY" tvg-logo="http://logo.protv.cc/picons/logos/filmboxfamily.png" group-title="|PL| FILMOWE",PL - FILMBOX FAMILY
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689781
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="PL - KINO POLSKA MUZYKA" tvg-logo="http://logo.protv.cc/picons/logos/kinopolskamuzyka.png" group-title="|PL| FILMOWE",PL - KINO POLSKA MUZYKA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689799
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="PL - ACTIVE FAMILY" tvg-logo="http://logo.protv.cc/picons/logos/activefamily.png" group-title="|PL| FILMOWE",PL - ACTIVE FAMILY
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689778
+#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="PL - EPIC DRAMA HD" tvg-logo="http://logo.protv.cc/picons/logos/epicdramahd.png" group-title="|PL| FILMOWE",PL - EPIC DRAMA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689731
+#EXTINF:-1 tvg-id="" tvg-name="PL - VOD 205" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="|PL| FILMOWE",PL - VOD 205
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689815
+#EXTINF:-1 tvg-id="" tvg-name="PL - VOD 206" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="|PL| FILMOWE",PL - VOD 206
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689816
+#EXTINF:-1 tvg-id="" tvg-name="PL - VOD 207" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="|PL| FILMOWE",PL - VOD 207
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689817
+#EXTINF:-1 tvg-id="" tvg-name="PL - VOD 208" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="|PL| FILMOWE",PL - VOD 208
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689818
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL - TVP SERIALE" tvg-logo="http://logo.protv.cc/picons/logos/tvpseriale.png" group-title="|PL| FILMOWE",PL - TVP SERIALE
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689823
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="PL - TRAVEL CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/travelchannelhd.png" group-title="|PL| KULTURA",PL - TRAVEL CHANNEL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689707
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="PL - BIZNES24 HD" tvg-logo="http://logo.protv.cc/picons/logos/tvn24biznesiswiat.png" group-title="|PL| KULTURA",PL - BIZNES24 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689708
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl" tvg-name="PL - CANAL+ DOKUMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplusdokumenthd.png" group-title="|PL| KULTURA",PL - CANAL+ DOKUMENT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689710
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL - NAT GEO PEOPLE HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeopeoplehd.png" group-title="|PL| KULTURA",PL - NAT GEO PEOPLE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689712
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="PL - NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="|PL| KULTURA",PL - NAT GEO WILD HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689713
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="PL - NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="|PL| KULTURA",PL - NATIONAL GEOGRAPHIC HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689714
+#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="PL - ANIMAL PLANET HD" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethdpolish.png" group-title="|PL| KULTURA",PL - ANIMAL PLANET HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689715
+#EXTINF:-1 tvg-id="" tvg-name="PL - PLANETE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplushd.png" group-title="|PL| KULTURA",PL - PLANETE+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689747
+#EXTINF:-1 tvg-id="CIPolsat.pl" tvg-name="PL - CRIME AND INVESTIGATION HD" tvg-logo="http://logo.protv.cc/picons/logos/crimeinvestigationnetwork.png" group-title="|PL| KULTURA",PL - CRIME AND INVESTIGATION HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689723
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="PL - DISCOVERY HD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="|PL| KULTURA",PL - DISCOVERY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689724
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL - DISCOVERY SCIENCE HD" tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="|PL| KULTURA",PL - DISCOVERY SCIENCE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689726
+#EXTINF:-1 tvg-id="" tvg-name="PL - E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/eentertainmenthd.png" group-title="|PL| KULTURA",PL - E! ENTERTAINMENT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689730
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL - FOOD NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="|PL| KULTURA",PL - FOOD NETWORK HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689671
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="PL - ADVENTURE HD" tvg-logo="http://logo.protv.cc/picons/logos/adventurehd.png" group-title="|PL| KULTURA",PL - ADVENTURE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689718
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="PL - H2 HD" tvg-logo="http://logo.protv.cc/picons/logos/H2--HD.jpg" group-title="|PL| KULTURA",PL - H2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689734
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="PL - ID HD" tvg-logo="http://logo.protv.cc/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="|PL| KULTURA",PL - ID HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689736
+#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="PL - POLSAT VIASAT EXPLORE HD" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-EXPLORER.png" group-title="|PL| KULTURA",PL - POLSAT VIASAT EXPLORE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689754
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="PL - POLSAT VIASAT HISTORY HD" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-HISTORY-HD.jpg" group-title="|PL| KULTURA",PL - POLSAT VIASAT HISTORY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689755
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="PL - POLSAT VIASAT NATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-NATURE-HD.png" group-title="|PL| KULTURA",PL - POLSAT VIASAT NATURE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689756
+#EXTINF:-1 tvg-id="" tvg-name="PL - TVP DOKUMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/TVP-DOKUMENT.jpeg" group-title="|PL| KULTURA",PL - TVP DOKUMENT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689764
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP KULTURA HD" tvg-logo="http://logo.protv.cc/picons/logos/tvpkultura.png" group-title="|PL| KULTURA",PL - TVP KULTURA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689765
+#EXTINF:-1 tvg-id="History.pl" tvg-name="PL - HISTORY HD" tvg-logo="http://logo.protv.cc/picons/logos/historyhd.png" group-title="|PL| KULTURA",PL - HISTORY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689768
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL - TVP HISTORIA" tvg-logo="http://logo.protv.cc/picons/logos/tvphistoria.png" group-title="|PL| KULTURA",PL - TVP HISTORIA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689774
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="PL - DISCOVERY HISTORIA" tvg-logo="http://logo.protv.cc/picons/logos/discoveryhistoria.png" group-title="|PL| KULTURA",PL - DISCOVERY HISTORIA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689784
+#EXTINF:-1 tvg-id="" tvg-name="PL - DA VINCI LEARNING" tvg-logo="http://logo.protv.cc/picons/logos/davincilearning.png" group-title="|PL| KULTURA",PL - DA VINCI LEARNING
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689788
+#EXTINF:-1 tvg-id="" tvg-name="PL - HOME TV" tvg-logo="http://logo.protv.cc/picons/logos/HOME-TV.jpg" group-title="|PL| KULTURA",PL - HOME TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689798
+#EXTINF:-1 tvg-id="" tvg-name="PL - WATER PLANET" tvg-logo="http://logo.protv.cc/picons/logos/waterplanet.png" group-title="|PL| KULTURA",PL - WATER PLANET
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689819
+#EXTINF:-1 tvg-id="" tvg-name="PL - TRWAM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/Trwam.png" group-title="|PL| INFORMACJE",PL - TRWAM
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/826828
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL - TVP 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/tvp1hd.png" group-title="|PL| OGÓLNE",PL - TVP 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689632
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL - TVP 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/tvp2hd.png" group-title="|PL| OGÓLNE",PL - TVP 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689633
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="PL - TVN HD" tvg-logo="http://logo.protv.cc/picons/logos/tvnhd.png" group-title="|PL| OGÓLNE",PL - TVN HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689634
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="PL - TVN 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/tvn7hd.png" group-title="|PL| OGÓLNE",PL - TVN 7 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689635
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL - TVN STYLE HD" tvg-logo="http://logo.protv.cc/picons/logos/tvnstylehd.png" group-title="|PL| OGÓLNE",PL - TVN STYLE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689637
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL - TVN TURBO HD" tvg-logo="http://logo.protv.cc/picons/logos/tvnturbohd.png" group-title="|PL| OGÓLNE",PL - TVN TURBO HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689638
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV4 HD" tvg-logo="http://logo.protv.cc/picons/logos/tv4hd.png" group-title="|PL| OGÓLNE",PL - TV4 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689642
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV6 HD" tvg-logo="http://logo.protv.cc/picons/logos/tv6_HD.png" group-title="|PL| OGÓLNE",PL - TV6 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689641
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP HD" tvg-logo="http://logo.protv.cc/picons/logos/tvphd.png" group-title="|PL| OGÓLNE",PL - TVP HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689648
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - POLONIA HD" tvg-logo="http://logo.protv.cc/picons/logos/tvpolonia.png" group-title="|PL| OGÓLNE",PL - POLONIA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689770
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL - 13 ULICA HD" tvg-logo="http://logo.protv.cc/picons/logos/13ulicahd.png" group-title="|PL| OGÓLNE",PL - 13 ULICA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689660
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - POLSAT HD" tvg-logo="http://logo.protv.cc/picons/logos/polsathd.png" group-title="|PL| OGÓLNE",PL - POLSAT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689643
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="PL - POLSAT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsat2hd.png" group-title="|PL| OGÓLNE",PL - POLSAT 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689644
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL - FOKUS TV HD" tvg-logo="http://logo.protv.cc/picons/logos/fokustv.png" group-title="|PL| OGÓLNE",PL - FOKUS TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689670
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="PL - PULS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/puls2.png" group-title="|PL| OGÓLNE",PL - PULS 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689673
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="PL - PULS HD" tvg-logo="http://logo.protv.cc/picons/logos/puls.png" group-title="|PL| OGÓLNE",PL - PULS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689677
+#EXTINF:-1 tvg-id="TNT.pl" tvg-name="PL - TNT HD" tvg-logo="http://logo.protv.cc/picons/logos/TNT-HD.png" group-title="|PL| OGÓLNE",PL - TNT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689679
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="PL - BBC BRIT HD" tvg-logo="http://logo.protv.cc/picons/logos/bbcbrithd.png" group-title="|PL| OGÓLNE",PL - BBC BRIT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689702
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="PL - BBC LIFESTYLE HD" tvg-logo="http://logo.protv.cc/picons/logos/bbclifestyle.png" group-title="|PL| OGÓLNE",PL - BBC LIFESTYLE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689717
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL - CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetworkhd.png" group-title="|PL| OGÓLNE",PL - CARTOON NETWORK HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689720
+#EXTINF:-1 tvg-id="" tvg-name="PL - DOMO+ HD" tvg-logo="http://logo.protv.cc/picons/logos/domoplushd.png" group-title="|PL| OGÓLNE",PL - DOMO+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689728
+#EXTINF:-1 tvg-id="" tvg-name="PL - DTX HD" tvg-logo="http://logo.protv.cc/picons/logos/dtxhd.png" group-title="|PL| OGÓLNE",PL - DTX HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689729
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="PL - KUCHNIA+ HD" tvg-logo="http://logo.protv.cc/picons/logos/kuchniaplushd.png" group-title="|PL| OGÓLNE",PL - KUCHNIA+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689737
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL - NOWA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/nowatv.png" group-title="|PL| OGÓLNE",PL - NOWA TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689745
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL - POLSAT CAFE HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatcafehd.png" group-title="|PL| OGÓLNE",PL - POLSAT CAFE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689748
+#EXTINF:-1 tvg-id="ComedyCentralExtra.pl" tvg-name="PL - POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralextra.png" group-title="|PL| OGÓLNE",PL - POLSAT COMEDY CENTRAL EXTRA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689749
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL - POLSAT DOKU HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatdoku.png" group-title="|PL| OGÓLNE",PL - POLSAT DOKU HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689750
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="PL - POLSAT GAMES HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatgames.png" group-title="|PL| OGÓLNE",PL - POLSAT GAMES HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689751
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL - POLSAT PLAY HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatplayhd.png" group-title="|PL| OGÓLNE",PL - POLSAT PLAY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689753
+#EXTINF:-1 tvg-id="" tvg-name="PL - STUDIOMED TV HD" tvg-logo="http://logo.protv.cc/picons/logos/studiomedtv.png" group-title="|PL| OGÓLNE",PL - STUDIOMED TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689759
+#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="PL - SUPERSTACJA HD" tvg-logo="http://logo.protv.cc/picons/logos/superstacja.png" group-title="|PL| OGÓLNE",PL - SUPERSTACJA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689761
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL - TTV HD" tvg-logo="http://logo.protv.cc/picons/logos/ttv.png" group-title="|PL| OGÓLNE",PL - TTV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689763
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL - SUPER POLSAT HD" tvg-logo="http://logo.protv.cc/picons/logos/superpolsat.png" group-title="|PL| OGÓLNE",PL - SUPER POLSAT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689766
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="PL - HGTV HD" tvg-logo="http://logo.protv.cc/picons/logos/HGTV-HD.png" group-title="|PL| OGÓLNE",PL - HGTV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689767
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL - TVP POLONIA 1" tvg-logo="http://logo.protv.cc/picons/logos/polonia1.png" group-title="|PL| OGÓLNE",PL - TVP POLONIA 1
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689771
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="PL - TVP 3" tvg-logo="http://logo.protv.cc/picons/logos/tvp3.png" group-title="|PL| OGÓLNE",PL - TVP 3
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689772
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL - TVP ABC" tvg-logo="http://logo.protv.cc/picons/logos/tvpabc.png" group-title="|PL| OGÓLNE",PL - TVP ABC
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689773
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL - TVP ROZRYWKA" tvg-logo="http://logo.protv.cc/picons/logos/tvprozrywka.png" group-title="|PL| OGÓLNE",PL - TVP ROZRYWKA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689775
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="PL - TELE 5" tvg-logo="http://logo.protv.cc/picons/logos/tele5hd.png" group-title="|PL| OGÓLNE",PL - TELE 5
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689782
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="PL - METRO" tvg-logo="http://logo.protv.cc/picons/logos/metrotv.png" group-title="|PL| OGÓLNE",PL - METRO
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689800
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="PL - WP" tvg-logo="http://logo.protv.cc/picons/logos/wp.png" group-title="|PL| OGÓLNE",PL - WP
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689820
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="PL - ZOOM TV" tvg-logo="http://logo.protv.cc/picons/logos/zoomtvhd.jpg" group-title="|PL| OGÓLNE",PL - ZOOM TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689822
+#EXTINF:-1 tvg-id="Boomerang.pl" tvg-name="PL - BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons/logos/boomeranghd.png" group-title="|PL| MUZYKA | DZIECI",PL - BOOMERANG HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689709
+#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="PL - BBC EARTH HD" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="|PL| MUZYKA | DZIECI",PL - BBC EARTH HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689716
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="PL - CBS REALITY HD" tvg-logo="http://logo.protv.cc/picons/logos/cbsreality.png" group-title="|PL| MUZYKA | DZIECI",PL - CBS REALITY HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689722
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="PL - DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/disneychannelhd.png" group-title="|PL| MUZYKA | DZIECI",PL - DISNEY CHANNEL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689727
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="PL - MINIMINI HD" tvg-logo="http://logo.protv.cc/picons/logos/MINIMINI-.jpeg" group-title="|PL| MUZYKA | DZIECI",PL - MINIMINI HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689738
+#EXTINF:-1 tvg-id="NickToons.pl" tvg-name="PL - NICKTOONS HD" tvg-logo="http://logo.protv.cc/picons/logos/nicktoons.png" group-title="|PL| MUZYKA | DZIECI",PL - NICKTOONS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689740
+#EXTINF:-1 tvg-id="" tvg-name="PL - TEENNICK HD" tvg-logo="http://logo.protv.cc/picons/logos/TEEN-NICK.jpg" group-title="|PL| MUZYKA | DZIECI",PL - TEENNICK HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689741
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="PL - MTV LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvlivehd.png" group-title="|PL| MUZYKA | DZIECI",PL - MTV LIVE HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689743
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL - MTV POLSKA HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvpolska.png" group-title="|PL| MUZYKA | DZIECI",PL - MTV POLSKA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689744
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="PL - POLSAT MUSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatmusichd.png" group-title="|PL| MUZYKA | DZIECI",PL - POLSAT MUSIC HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689752
+#EXTINF:-1 tvg-id="" tvg-name="PL - SUNDANCE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/sundancehd.png" group-title="|PL| MUZYKA | DZIECI",PL - SUNDANCE TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689760
+#EXTINF:-1 tvg-id="" tvg-name="PL - TELETOON+ HD" tvg-logo="http://logo.protv.cc/picons/logos/teletoonplushd.png" group-title="|PL| MUZYKA | DZIECI",PL - TELETOON+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689762
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL - POLO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/polotv.png" group-title="|PL| MUZYKA | DZIECI",PL - POLO TV HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689769
+#EXTINF:-1 tvg-id="BBCCbeebies.pl" tvg-name="PL - BBC CBEEBIES" tvg-logo="http://logo.protv.cc/picons/logos/bbccbeebies.png" group-title="|PL| MUZYKA | DZIECI",PL - BBC CBEEBIES
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689786
+#EXTINF:-1 tvg-id="BabyTV.pl" tvg-name="PL - BABY TV" tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="|PL| MUZYKA | DZIECI",PL - BABY TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689787
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="PL - DISCO POLO MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/discopolomusic.png" group-title="|PL| MUZYKA | DZIECI",PL - DISCO POLO MUSIC
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689789
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="PL - 4FUN DANCE" tvg-logo="http://logo.protv.cc/picons/logos/4fundance.png" group-title="|PL| MUZYKA | DZIECI",PL - 4FUN DANCE
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689790
+#EXTINF:-1 tvg-id="" tvg-name="PL - 4FUN GOLD HITS" tvg-logo="http://logo.protv.cc/picons/logos/4fungold.png" group-title="|PL| MUZYKA | DZIECI",PL - 4FUN GOLD HITS
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689791
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="PL - 4FUN.TV" tvg-logo="http://logo.protv.cc/picons/logos/4funtv.png" group-title="|PL| MUZYKA | DZIECI",PL - 4FUN.TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689792
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL - DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/picons/logos/disneyjuniorhd.png" group-title="|PL| MUZYKA | DZIECI",PL - DISNEY JUNIOR
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689793
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - DISNEY XD" tvg-logo="http://logo.protv.cc/picons/logos/disneyxdhd.png" group-title="|PL| MUZYKA | DZIECI",PL - DISNEY XD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689794
+#EXTINF:-1 tvg-id="" tvg-name="PL - ESKA ROCK TV" tvg-logo="http://logo.protv.cc/picons/logos/eskatv.png" group-title="|PL| MUZYKA | DZIECI",PL - ESKA ROCK TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689795
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL - ESKA TV" tvg-logo="http://logo.protv.cc/picons/logos/eskatv.png" group-title="|PL| MUZYKA | DZIECI",PL - ESKA TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689796
+#EXTINF:-1 tvg-id="EskaTVextra.pl" tvg-name="PL - ESKA TV EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/eskatvextra.png" group-title="|PL| MUZYKA | DZIECI",PL - ESKA TV EXTRA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689797
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="PL - NICK JR POLSKA" tvg-logo="http://logo.protv.cc/picons/logos/nickjrpolska.png" group-title="|PL| MUZYKA | DZIECI",PL - NICK JR POLSKA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689801
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="PL - NICKELODEON" tvg-logo="http://logo.protv.cc/picons/logos/NICKELODEON-HD.png" group-title="|PL| MUZYKA | DZIECI",PL - NICKELODEON
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689802
+#EXTINF:-1 tvg-id="" tvg-name="PL - MTV ROCKS" tvg-logo="http://logo.protv.cc/picons/logos/mtvrocks.png" group-title="|PL| MUZYKA | DZIECI",PL - MTV ROCKS
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689804
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="PL - NUTA TV" tvg-logo="http://logo.protv.cc/picons/logos/nutatv.png" group-title="|PL| MUZYKA | DZIECI",PL - NUTA TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689805
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="PL - POLSAT JIM JAM" tvg-logo="http://logo.protv.cc/picons/logos/polsatjimjam.png" group-title="|PL| MUZYKA | DZIECI",PL - POLSAT JIM JAM
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689806
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="PL - POWER TV" tvg-logo="http://logo.protv.cc/picons/logos/powertv.png" group-title="|PL| MUZYKA | DZIECI",PL - POWER TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689807
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="PL - STARS.TV" tvg-logo="http://logo.protv.cc/picons/logos/starstv.png" group-title="|PL| MUZYKA | DZIECI",PL - STARS.TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689808
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL - TVS" tvg-logo="http://logo.protv.cc/picons/logos/TVS--.png" group-title="|PL| MUZYKA | DZIECI",PL - TVS
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689811
+#EXTINF:-1 tvg-id="" tvg-name="PL - MTV 00S" tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="|PL| MUZYKA | DZIECI",PL - MTV 00S
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689812
+#EXTINF:-1 tvg-id="" tvg-name="PL - MUSIC BOX POLSKA" tvg-logo="http://logo.protv.cc/picons/logos/musicbox.png" group-title="|PL| MUZYKA | DZIECI",PL - MUSIC BOX POLSKA
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689813
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL - VOX MUSIC TV" tvg-logo="http://logo.protv.cc/picons/logos/voxmusictv.png" group-title="|PL| MUZYKA | DZIECI",PL - VOX MUSIC TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689814
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL - TVP SPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/tvpsporthd.png" group-title="|PL| SPORTOWE",PL - TVP SPORT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689650
+#EXTINF:-1 tvg-id="" tvg-name="PL - PPV EVENTS" tvg-logo="http://logo.protv.cc/picons/logos/GROMDA--LOGO.png" group-title="|PL| SPORTOWE",PL - PPV EVENTS
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/696887
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL - POLSAT SPORT NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportnews.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT NEWS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689684
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="PL - POLSAT SPORT EXTRA HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportextrahd.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT EXTRA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689681
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL - POLSAT SPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsporthd.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689682
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL - POLSAT SPORT FIGHT HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportfighthd.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT FIGHT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689683
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL - POLSAT SPORT PREMIUM 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium1.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689685
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="PL - POLSAT SPORT PREMIUM 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium2.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689686
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="PL - POLSAT SPORT PREMIUM 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv3.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 3 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689687
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="PL - POLSAT SPORT PREMIUM 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv4.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 4 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689688
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="PL - POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv5.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 5 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689689
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="PL - POLSAT SPORT PREMIUM 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv6.png" group-title="|PL| SPORTOWE",PL - POLSAT SPORT PREMIUM 6 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689690
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="PL - CANAL+ SPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="|PL| SPORTOWE",PL - CANAL+ SPORT 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689692
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL - CANAL+ SPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="|PL| SPORTOWE",PL - CANAL+ SPORT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689691
+#EXTINF:-1 tvg-id="" tvg-name="PL - CANAL+ SPORT 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="|PL| SPORTOWE",PL - CANAL+ SPORT 3 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689693
+#EXTINF:-1 tvg-id="" tvg-name="PL - CANAL+ SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="|PL| SPORTOWE",PL - CANAL+ SPORT 4 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689694
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="PL - ELEVEN SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports1hd.png" group-title="|PL| SPORTOWE",PL - ELEVEN SPORTS 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689695
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="PL - ELEVEN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports2hd.png" group-title="|PL| SPORTOWE",PL - ELEVEN SPORTS 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689696
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="PL - ELEVEN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports3hd.png" group-title="|PL| SPORTOWE",PL - ELEVEN SPORTS 3 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689697
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="PL - ELEVEN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/elevensports4hd.png" group-title="|PL| SPORTOWE",PL - ELEVEN SPORTS 4 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689698
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="PL - EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="|PL| SPORTOWE",PL - EUROSPORT 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689699
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL - EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport2hd.png" group-title="|PL| SPORTOWE",PL - EUROSPORT 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689700
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="PL - EXTREME SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/extremesportshd.png" group-title="|PL| SPORTOWE",PL - EXTREME SPORTS HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689704
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="PL - SPORTKLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/sportklubhd.png" group-title="|PL| SPORTOWE",PL - SPORTKLUB HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689705
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="PL - FIGHTBOX HD" tvg-logo="http://logo.protv.cc/picons/logos/fightboxhd.png" group-title="|PL| SPORTOWE",PL - FIGHTBOX HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689706
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="PL - FIGHTKLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/fightklub.png" group-title="|PL| SPORTOWE",PL - FIGHTKLUB HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689732
+#EXTINF:-1 tvg-id="" tvg-name="PL - GOLF CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/GOLF-CHANNEL-NP.png" group-title="|PL| SPORTOWE",PL - GOLF CHANNEL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689733
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="PL - MOTOWIZJA HD" tvg-logo="http://logo.protv.cc/picons/logos/motowizjatv.png" group-title="|PL| SPORTOWE",PL - MOTOWIZJA HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689739
+#EXTINF:-1 tvg-id="" tvg-name="PL - NSPORT+ HD" tvg-logo="http://logo.protv.cc/picons/logos/nsportplushd.png" group-title="|PL| SPORTOWE",PL - NSPORT+ HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689746
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="PL - STOPKLATKA TV" tvg-logo="http://logo.protv.cc/picons/logos/stopklatkatv.png" group-title="|PL| SPORTOWE",PL - STOPKLATKA TV
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/689783
+#EXTINF:-1 tvg-id="" tvg-name="PL - HIGH LEAGUE 6" tvg-logo="" group-title="|PL| VIAPLAY SPORT",PL - HIGH LEAGUE 6
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/863705
+#EXTINF:-1 tvg-id="" tvg-name="PL - PREMIER LEAGUE TOP EVENT FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - PREMIER LEAGUE TOP EVENT FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842137
+#EXTINF:-1 tvg-id="" tvg-name="PL - PREMIER LEAGUE TOP EVENT HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - PREMIER LEAGUE TOP EVENT HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842136
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 1 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 1 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842135
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 2 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 2 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842134
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 3 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 3 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842133
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 4 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 4 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842132
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 5 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 5 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842131
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 6 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 6 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842130
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 7 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 7 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842129
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 8 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 8 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842128
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 9 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 9 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842127
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 10 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 10 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842126
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 11 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 11 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842125
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 12 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 12 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842124
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 13 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 13 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842123
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 14 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 14 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842122
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 15 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 15 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842121
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 16 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 16 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842120
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 17 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 17 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842119
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 18 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 18 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842118
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 19 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 19 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842117
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 20 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 20 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842116
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 21 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 21 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842115
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 22 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 22 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842114
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 23 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 23 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842113
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 25 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 25 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842112
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 26 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 26 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842111
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 40 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 40 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842110
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 44 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 44 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842109
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 48 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 48 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842108
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 49 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 49 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842107
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 50 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 50 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842106
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 63 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 63 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842105
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 64 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 64 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842104
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 65 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 65 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842103
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 66 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 66 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842102
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 67 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 67 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842101
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 68 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 68 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842100
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 69 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 69 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842099
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 70 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 70 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842098
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 71 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 71 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842097
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 71 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 71 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842096
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 72 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 72 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842095
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 73 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 73 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842094
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 74 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 74 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842093
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 75 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 75 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842092
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 76 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 76 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842091
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 77 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 77 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842090
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 78 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 78 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842089
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 79 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 79 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842088
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 80 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 80 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842087
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 81 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 81 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842086
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 82 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 82 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842085
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 83 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 83 FHD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842084
+#EXTINF:-1 tvg-id="" tvg-name="PL - XTRA 83 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - XTRA 83 HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842083
+#EXTINF:-1 tvg-id="" tvg-name="PL - NFL HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="|PL| VIAPLAY SPORT",PL - NFL HD
+http://cname.dino.ws:80/ec2c13bf92/2f427b4f93fe/842082

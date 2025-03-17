@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                color: #333;
+            }
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+            }
+            .header {
+                height: 40px;
+                background: #f4f4f4;
+                padding: 10px;
+                border-bottom: 1px solid #ddd;
+                display: flex;
+                align-items: center;
+            }
+            .content {
+                padding: 20px;
+            }
+            .footer {
+                background: #f4f4f4;
+                padding: 10px;
+                border-top: 1px solid #ddd;
+                text-align: center;
+            }
+            .image {
+                /* display: block; */
+                height: inherit;
+                width: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <div class="header">
+                    <!-- <h1>Email Title</h1> -->
+                    <img
+                        class="image"
+                        src="https://i.ibb.co/j40HDxM/logo-vemar.png"
+                    />
+                    - wycena ID:
+                </div>
+            </div>
+            <div class="content">
+                <p>{{ message }}</p>
+            </div>
+            <div class="footer">
+                <p>Uwaga cena może uledz delikatnej zmianie!</p>
+            </div>
+        </div>
+    </body>
+</html>

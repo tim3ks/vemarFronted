@@ -1,0 +1,50 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^0.3.12",
+    "@nuxtjs/dotenv": "^1.4.2",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/supabase": "^1.2.2",
+    "@pinia/nuxt": "^0.5.1",
+    "@supabase/ssr": "^0.4.0",
+    "@supabase/supabase-js": "^2.44.3",
+    "@vonage/server-sdk": "^3.14.1",
+    "@vueuse/core": "^10.11.0",
+    "@vueuse/nuxt": "^10.11.0",
+    "autoprefixer": "^10.4.19",
+    "bir1": "^3.0.2",
+    "canvas": "^2.11.2",
+    "googleapis": "^137.1.0",
+    "handlebars": "^4.7.8",
+    "install": "^0.13.0",
+    "konva": "^9.3.14",
+    "nodemailer": "^6.9.13",
+    "nuxt": "^3.12.3",
+    "pinia": "^2.1.7",
+    "postcss": "^8.4.38",
+    "primeicons": "^7.0.0",
+    "tailwind-config-viewer": "1.7.1",
+    "tailwind-merge": "^2.5.2",
+    "tailwind-scrollbar": "^3.1.0",
+    "three": "^0.164.1",
+    "uuid": "^10.0.0",
+    "vue": "^3.4.21",
+    "vue-konva": "^3.0.2",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^0.3.12",
+    "eslint": "^9.2.0",
+    "nuxt-mail": "^5.0.1",
+    "tailwindcss": "^3.4.3"
+  }
+}

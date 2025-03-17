@@ -1,0 +1,20 @@
+{
+	"editor.tabSize": 12,
+	"workbench.colorCustomizations": {
+	    "titleBar.activeBackground": "#282c34",      // Darker background for active title bar
+	    "titleBar.activeForeground": "#61dafb",      // Bright blue foreground for active title bar
+	    "titleBar.inactiveBackground": "#21252b",    // Slightly lighter background for inactive title bar
+	    "titleBar.inactiveForeground": "#abb2bf",    // Light grey foreground for inactive title bar
+	    "titleBar.border": "#181a1f",                // Darker border for title bar
+	    "activityBar.background": "#282c34",         // Same darker background for activity bar
+	    "activityBar.foreground": "#61dafb",         // Bright blue foreground for activity bar
+	    "statusBar.background": "#282c34",           // Darker background for status bar
+	    "statusBar.foreground": "#98c379",           // Soft green foreground for status bar
+	    "statusBar.debuggingBackground": "#e06c75",  // Red background for debugging status bar
+	    "statusBar.debuggingForeground": "#ffffff",  // White foreground for debugging status bar
+	    "tab.activeBorder": "#61dafb",               // Bright blue border for active tab
+	    "iLoveWorkSpaceColors": true,
+	    "iLoveWorkSpaceRandom": false
+	}
+            }
+            
