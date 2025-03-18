@@ -5,27 +5,27 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     "@nuxt/eslint",
     // "@nuxtjs/dotenv",
-    "@nuxtjs/supabase",
+    // "@nuxtjs/supabase",
     [
       "@pinia/nuxt",
       {
         autoImports: ["defineStore", "definePiniaStore"],
       },
     ],
-    [
-      "@nuxtjs/google-fonts",
-      {
-        families: {
-          Nunito: true,
-          download: true,
-          inject: true,
-        },
-      },
-    ],
+    // [
+    //   "@nuxtjs/google-fonts",
+    //   {
+    //     families: {
+    //       Nunito: true,
+    //       download: true,
+    //       inject: true,
+    //     },
+    //   },
+    // ],
     "@nuxt/eslint",
   ],
   future: {
-    compatibilityVersion: 4,
+    // compatibilityVersion: 4,
   },
 
   runtimeConfig: {
@@ -45,7 +45,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      link: [{ rel: 'icon', type: 'image/png', href: './favicon.png' }]
+      // link: [{ rel: 'ic1on', type: 'image/png', href: './favicon.png' }]
     },
   },
 

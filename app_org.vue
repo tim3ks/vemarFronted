@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// import 'primevue/resources/themes/aura-light-green/theme.css'
 const supabase = useSupabaseClient();
 
 useHead({
@@ -26,15 +25,11 @@ onMounted(() => {
 });
 
 // const ACCESS_TOKEN_KEY = useRuntimeConfig()
-
-// console.log(ACCESS_TOKEN_KEY);
 </script>
 
 <template>
-    <!-- <NuxtLoadingIndicator /> -->
     <NuxtLayout>
         <div class="p-2 select-none">
-            <!-- <Toast/> -->
             <NuxtPage />
         </div>
     </NuxtLayout>
