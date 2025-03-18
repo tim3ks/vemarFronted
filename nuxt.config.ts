@@ -6,12 +6,12 @@ export default defineNuxtConfig({
     // "@nuxt/eslint",
     // "@nuxtjs/dotenv",
     // "@nuxtjs/supabase",
-    [
-      "@pinia/nuxt",
-      {
-        autoImports: ["defineStore", "definePiniaStore"],
-      },
-    ],
+    // [
+    //   "@pinia/nuxt",
+    //   {
+    //     autoImports: ["defineStore", "definePiniaStore"],
+    //   },
+    // ],
     // [
     //   "@nuxtjs/google-fonts",
     //   {
@@ -25,7 +25,7 @@ export default defineNuxtConfig({
     // "@nuxt/eslint",
   ],
   future: {
-    // compatibilityVersion: 4,
+    compatibilityVersion: 4,
   },
 
   runtimeConfig: {
