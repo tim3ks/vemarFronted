@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 
   modules: [
     '@vueuse/nuxt',
-    "@nuxt/eslint",
+    // "@nuxt/eslint",
     // "@nuxtjs/dotenv",
     // "@nuxtjs/supabase",
     [
@@ -22,7 +22,7 @@ export default defineNuxtConfig({
     //     },
     //   },
     // ],
-    "@nuxt/eslint",
+    // "@nuxt/eslint",
   ],
   future: {
     // compatibilityVersion: 4,
